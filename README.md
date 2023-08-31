@@ -29,8 +29,8 @@ PokerBot (Python)
 Serveur FiveM :
 
 ```sh
-Mise en fonctionne du serveur
-Création de Script exclusif
+Mise en fonctionne du serveur (Linux)
+Création de Scripts exclusifs (LUA, HTML, CSS, JS)
 ```
 
 ## Me contacter
