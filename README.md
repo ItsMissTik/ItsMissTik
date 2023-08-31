@@ -24,20 +24,13 @@ Bot Discord :
 
 ```sh
 PokerBot (Python)
-ModerationBot (Javascript)
 ```
 
-Application Android :
+Serveur FiveM :
 
 ```sh
-Jeu Stratégie Mobile (Java)
-```
-
-Plugins et Mods Minecraft :
-
-```sh
-Plugins (YML)
-Mods (Java)
+Mise en fonctionne du serveur
+Création de Script exclusif
 ```
 
 ## Me contacter
