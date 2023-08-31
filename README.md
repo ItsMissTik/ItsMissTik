@@ -10,7 +10,7 @@
 ## Compétences Tech
 
 - [X] Mise en service et maintenance de serveurs _(Windows, Linux)_
-- [X] Mise en service et maintenance d'un park informatique
+- [X] Mise en service et maintenance d'un parc informatique
 - [X] Résolution de ticket _(Support N1, N2)_
 - [X] HTML, CSS et JavaScript
 - [X] Java, Python et C++
@@ -48,5 +48,4 @@ N'hésitez pas à me contacter via les liens ci-dessous :
 | ------ | ------ |
 | GitLab | https://gitlab.com/ItsMissTik |
 | GitHub | https://github.com/ItsMissTik/ |
-| Discord | https://discord.gg/XeRQ38Yb7N |
-| Steam | https://steamcommunity.com/id/ItsMissTik/ |
+| LinkedIn | https://www.linkedin.com/in/lasnier-marie/ |
