@@ -20,6 +20,12 @@
 
 Qu'est-ce que je mijote ?
 
+Site Web :
+
+```sh
+Les bergers du comtat (élevation familliale)
+```
+
 Bot Discord :
 
 ```sh
@@ -30,7 +36,7 @@ Serveur FiveM :
 
 ```sh
 Mise en fonctionne du serveur (Linux)
-Création de Scripts exclusifs (LUA, HTML, CSS, JS)
+Création de Scripts exclusifs et interfaces (LUA, HTML, CSS, JS)
 ```
 
 ## Me contacter
