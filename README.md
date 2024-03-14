@@ -3,7 +3,7 @@
 ![image](https://static-00.iconduck.com/assets.00/waving-hand-sign-emoji-512x512-lihf6wsv.png)
 ### A propos de moi :
 
-- 🌱 Je suis actuellement en BTS SIO option SLAM en alternance chez VitalRest.
+- 🌱 Je suis actuellement en BTS SIO option SLAM en alternance chez Agecco.
 - 👀 Je suis une grande fan de jeux vidéos en tout genre et j'adore les animaux.
 - ✨J'aimerais devenir Développeur Full Stack
 
@@ -19,12 +19,6 @@
 ## Projet en cours
 
 Qu'est-ce que je mijote ?
-
-Site Web :
-
-```sh
-Les bergers du comtat (élevation familliale)
-```
 
 Bot Discord :
 
