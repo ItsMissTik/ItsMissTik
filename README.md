@@ -32,10 +32,7 @@ Création de Scripts exclusifs et interfaces (LUA, HTML, CSS, JS)
 
 ## Me contacter
 
-N'hésitez pas à me contacter via les liens ci-dessous :
-
-| Lien | |
+| Contact | |
 | ------ | ------ |
 | Discord | itsmisstik |
-| GitHub | https://github.com/ItsMissTik/ |
-| LinkedIn | https://www.linkedin.com/in/lasnier-marie/ |
+| Twitch | https://www.twitch.tv/itsmisstik |
