@@ -1,11 +1,8 @@
 # ItsMissTik
 ## _Bienvenue sur mon ReadMe !_
-![image](https://static-00.iconduck.com/assets.00/waving-hand-sign-emoji-512x512-lihf6wsv.png)
 ### A propos de moi :
 
-- 🌱 Je suis actuellement en BTS SIO option SLAM en alternance chez Agecco.
 - 👀 Je suis une grande fan de jeux vidéos en tout genre et j'adore les animaux.
-- ✨J'aimerais devenir Développeur Full Stack
 
 ## Compétences Tech
 
@@ -39,6 +36,6 @@ N'hésitez pas à me contacter via les liens ci-dessous :
 
 | Lien | |
 | ------ | ------ |
-| GitLab | https://gitlab.com/ItsMissTik |
+| Discord | itsmisstik |
 | GitHub | https://github.com/ItsMissTik/ |
 | LinkedIn | https://www.linkedin.com/in/lasnier-marie/ |
