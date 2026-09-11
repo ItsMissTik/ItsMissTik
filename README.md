@@ -1,10 +1,6 @@
 <h1 align="center">👋 ItsMissTik</h1>
 <h3 align="center">Bienvenue sur mon ReadMe !</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Gestionnaire+de+parc+informatique;R%C3%A9f%C3%A9rente+documentation+technique;Passionn%C3%A9e+de+jeux+vid%C3%A9o+%F0%9F%8E%AE" alt="Typing SVG" />
-</p>
-
 ---
 
 ### 🙋‍♀️ A propos de moi
@@ -20,7 +16,7 @@
 **Poste actuel**
 
 ![Gestion de parc](https://img.shields.io/badge/Gestionnaire_de_parc_informatique-6D28D9?style=for-the-badge)
-![Documentation](https://img.shields.io/badge/Référente_documentation_technique_%26_utilisateur-7C3AED?style=for-the-badge)
+![Documentation](https://img.shields.io/badge/Référente_documentation_technique_%26_utilisateurs-7C3AED?style=for-the-badge)
 
 **Systèmes & Support**
 
