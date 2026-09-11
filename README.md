@@ -26,7 +26,6 @@
 
 ![Windows](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Support](https://img.shields.io/badge/Support_N1_%2F_N2-2563EB?style=for-the-badge)
 
 **Langages & Web**
 
